@@ -1,3 +1,5 @@
+See [Github Issue](https://github.com/sveltejs/kit/issues/10507)
+
 Build [packages/package-1](./packages/package-1/) with `npm run package`
 
 Start [packages/site-1](./packages/site-1/) in dev mode using `npm run dev`
